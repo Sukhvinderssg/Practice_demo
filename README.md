@@ -1,3 +1,3 @@
 # Practice_demo
 <br>
-Author - Sukhvinder
+Author - Sukhvinder Singh
